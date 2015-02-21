@@ -1,5 +1,7 @@
 ## A general description of the codebook and its contents.
 
+File name: run_analysis. R
+
 Major steps:
 
 1. Libraries used: httr and plyr
