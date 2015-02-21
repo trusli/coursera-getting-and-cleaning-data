@@ -21,11 +21,17 @@ You should create one R script called run_analysis.R that does the following.
 Download date: February 18,2015
 Data files from the zip files that are processed:
 ./UCI HAR Dataset/features.txt
+
 ./UCI HAR Dataset/test/subject_test.txt
+
 ./UCI HAR Dataset/test/x_test.txt
+
 ./UCI HAR Dataset/test/y_test.txt
+
 ./UCI HAR Dataset/train/subject_train.txt
+
 ./UCI HAR Dataset/train/X_train.txt
+
 ./UCI HAR Dataset/train/y_train.txt
 
 The output is a tidy data text file produced using write.table() with row.name=FALSE
