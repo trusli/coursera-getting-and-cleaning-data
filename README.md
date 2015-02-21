@@ -111,5 +111,3 @@ It contains 79 measurements (averages) for each subject and each activity.
  $ fBodyBodyGyroMag-meanFreq()_mean    
  $ fBodyBodyGyroJerkMag-mean()_mean    
  $ fBodyBodyGyroJerkMag-meanFreq()_mean
-
-
