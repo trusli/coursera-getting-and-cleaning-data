@@ -34,7 +34,9 @@ Major steps:
 11. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Filename: subject_activity.txt.
+
 data.frame':	180 obs. of  81 variables:
+
  $ subject_id                          : int  1 1 1 1 1 1 2 2 2 2 ...
  
  $ activity_label                      : Factor w/ 6 levels "WALKING","WALKING_UPSTAIRS",..: 1 2 3 4 5 6 1 2 3 4 ...
