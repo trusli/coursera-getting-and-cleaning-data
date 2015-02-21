@@ -19,6 +19,7 @@ You should create one R script called run_analysis.R that does the following.
     Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
     
 Download date: February 18,2015
+
 Data files from the zip files that are processed:
 ./UCI HAR Dataset/features.txt
 
@@ -34,9 +35,7 @@ Data files from the zip files that are processed:
 
 ./UCI HAR Dataset/train/y_train.txt
 
-The output is a tidy data text file produced using write.table() with row.name=FALSE
-
-subject_activity.txt 
+runanalysis.R processed and created the output (subject_activity.txt ). A tidy data text file produced using write.table() with row.name=FALSE
 
 It contains 79 measurements (averages) for each subject and each activity. 
 
