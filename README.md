@@ -35,9 +35,11 @@ Data files from the zip files that are processed:
 ./UCI HAR Dataset/train/y_train.txt
 
 The output is a tidy data text file produced using write.table() with row.name=FALSE
+
 subject_activity.txt 
 
 It contains 79 measurements (averages) for each subject and each activity. 
+
  $ tBodyAcc-std()-X_mean             
  $ tBodyAcc-std()-Y_mean        
  $ tBodyAcc-std()-Z_mean           
